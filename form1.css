@@ -1,0 +1,18 @@
+.feedback{
+    height: 700px;
+    width: 100%;
+    border: solid greenyellow;
+    background-image: url('https://b.zmtcdn.com/data/reviews_photos/399/a7db804ce064b46884ea806bba4de399_1605941186.jpg');
+    background-size: 100% 100%;
+
+}
+.feedback p{
+    margin-left: 85%;
+    font-size: 48px;
+    color: red;
+}
+.feedback s{
+    margin-left: 35%;
+    color: rgb(51, 204, 13);
+    font-size: 40px;
+}

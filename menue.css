@@ -1,0 +1,55 @@
+.box1{
+    height: 80px;
+    width: 100%;
+    border:solid darkblue 8px;
+    background-color: brown;
+    
+}
+.box1 h1{
+    margin-left: 45%
+    ;
+}
+.image{
+    height: 700px;
+    width: 100%;
+    border:solid cadetblue 8px;
+    background-color: rgb(120, 146, 132);
+    background-image: url('https://files.fm/thumb_show.php?i=t7pae8y78');
+    background-size: 100% 100%;
+
+
+
+}
+.image2{
+    height: 700px;
+    width: 100%;
+    border:solid cadetblue 8px;
+    background-color: rgb(120, 146, 132);
+    background-size: 100% 100%;
+    background-image: url('https://files.fm/thumb_show.php?i=dwce5nzda');
+
+
+}
+.image3{
+    height: 700px;
+    width: 100%;
+    border:solid cadetblue 8px;
+    background-color: rgb(120, 146, 132);
+    background-size: 100% 100%;
+    background-image: url('https://files.fm/thumb_show.php?i=e4qcjcvdd');
+    
+  
+
+
+}
+.image4{
+    height: 700px;
+    width: 100%;
+    border:solid cadetblue 8px;
+    background-color: rgb(120, 146, 132);
+    background-size: 100% 100%;
+    background-image: url('https://files.fm/thumb_show.php?i=x8mp9tvdn');
+
+    
+
+}

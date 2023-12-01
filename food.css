@@ -1,0 +1,85 @@
+.header{
+    width: 99%;
+    height: 120px;
+    border:solid rgba(1, 0, 3, 0.932) 6px;
+    color: rgba(0, 0, 0, 0.959);background-color: rgb(230, 146, 22);
+
+}
+.header ul{
+    list-style: none;
+}
+.header li{
+    float: left;
+    margin:60px;
+margin-bottom:50px;
+}
+.mainpage{
+    height: 800px;
+   width: 98.7%;
+   border: solid black 8px;
+   background-size: 100% ,100%;
+   background-image:url(https://b.zmtcdn.com/data/pictures/1/18886201/99457b00b01640360574d484c158b6ac.jpg) ;
+   
+
+
+
+
+}
+.mainpage h1{
+    margin-top: 25%;
+    color: rgba(242, 247, 1, 0.884);
+
+}
+.mainpage ul{
+    margin-left: 30%;
+    color: rgba(123, 240, 13, 0.856);
+}
+.mainpage ul :hover{
+    color: tomato;
+font-size: 30px;
+}
+.nextpage{
+    width: 99%;
+    height: 600px;
+    border:solid rgb(197, 13, 13) 8px;
+    background-color:black;
+   
+}
+.nextpage h3{
+    color: chartreuse;
+    margin-left: 55%;
+    margin-top: 33px;
+}
+.header :hover{
+    color: rgba(233, 240, 241, 0.863);
+    background-color: rgba(7, 0, 0, 0.986);
+    
+}
+.header li :hover{
+    font-size: 20px;
+}
+.nextpage p{
+    color: floralwhite;
+    margin-left: 55%;
+}
+.nextpage h2{
+    color: rgba(230, 69, 6, 0.842);
+    margin-left: 55%;
+}
+.nextpage h2 :hover{
+    background-color: rgb(255, 174, 0) ;
+    font-size: 30px;
+    color: black;
+}
+
+.mainpage marquee{
+    color: rgba(106, 252, 9, 0.822);
+    font-size: 25px;
+    margin-top: 150px;
+}
+.mainpage marquee  :hover{
+    
+    color: rgb(147, 7, 228);
+
+    font-size: 50px;
+}
